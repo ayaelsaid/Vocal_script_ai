@@ -73,5 +73,3 @@ vocal-script-ai/
 - **Dev Tools:** dotenv, tsx, nodemon
 
 ---
-
-✅ *This README acts as a brief overview. More detailed documentation is provided in the submission package.*
