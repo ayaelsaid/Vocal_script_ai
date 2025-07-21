@@ -32,6 +32,7 @@ All in one seamless experience, powered by modern AI models.
 
 
 vocal-script-ai/
+
 ├── assets/
 
 ├── dist/
